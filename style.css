@@ -1,12 +1,12 @@
 h1{
-    color:azure;
-    background-color:darkslategray;
+    color:white;
     font-size: 6em;
     text-align: center;
     margin-top: auto;
+    font-style: italic;
 }
 body{
-    background-color: black;
+    background-image:url(background.jpg);
 }
 .logo{
         margin-left: auto;
@@ -20,15 +20,15 @@ body{
 }
 .leftText{
     text-align:center;
-    color:darkcyan;
+    color:white;
 }
 .rightText{
     text-align:center;
-    color:darkcyan;
+    color:white;
 }
 .details{
     text-align: left;
-    color:darkcyan;
+    color:white;
 }
 address{
     color:white;
